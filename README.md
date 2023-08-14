@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro José @pedrojosemoragallegos
-- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently studying AI at the university of technology in ingolstadt, germany
+- 👀 I’m working as an AI developer
 - 📫 https://www.linkedin.com/in/pedro-jose-mora-gallegos
 
 <!---
